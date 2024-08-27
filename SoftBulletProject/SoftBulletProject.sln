@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapesRuntime", "ShapesRuntime.csproj", "{81B2DE9F-D325-0235-00C3-7DC6610FEA4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{EDB51D79-FE04-AD3D-B758-DFE4A1CB080D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapesEditor", "ShapesEditor.csproj", "{4233F33A-04F8-07B9-1361-67EBFD4166B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81B2DE9F-D325-0235-00C3-7DC6610FEA4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81B2DE9F-D325-0235-00C3-7DC6610FEA4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81B2DE9F-D325-0235-00C3-7DC6610FEA4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81B2DE9F-D325-0235-00C3-7DC6610FEA4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDB51D79-FE04-AD3D-B758-DFE4A1CB080D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDB51D79-FE04-AD3D-B758-DFE4A1CB080D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDB51D79-FE04-AD3D-B758-DFE4A1CB080D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDB51D79-FE04-AD3D-B758-DFE4A1CB080D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4233F33A-04F8-07B9-1361-67EBFD4166B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4233F33A-04F8-07B9-1361-67EBFD4166B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4233F33A-04F8-07B9-1361-67EBFD4166B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4233F33A-04F8-07B9-1361-67EBFD4166B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

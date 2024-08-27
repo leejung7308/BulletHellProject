@@ -1,0 +1,3 @@
+rep "SoftBulletProject@Sungs@cloud"
+  path "/"
+    smartbranch "/main"                                                          
